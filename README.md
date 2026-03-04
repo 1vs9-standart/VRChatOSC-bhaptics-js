@@ -10,7 +10,7 @@
 
 ## Что нужно
 
-- **Node.js 18+**
+- **Node.js 18+** — [скачать](https://nodejs.org/en)
 - **bHaptics Player** — [скачать](https://www.bhaptics.com/software/player/)
 - **TactSuit Air** или **TactSuit Pro**
 - **VRChat** — аватар с поддержкой касаний (bHapticsOSC, Contact и т.п.)
