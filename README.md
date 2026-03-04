@@ -1,6 +1,6 @@
 # tact-intensity-OSC (v1.0)
 
-[English](README.en.md)
+[English version](README.en.md)
 
 Приложение передаёт касания с аватара на TactSuit и подстраивает силу под тип касания (удар или плавное). Имеет тот же функционал, что и оригинальный VRChatOSC от Bhaptics
 
